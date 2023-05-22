@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "140032564417",
+    "project_id": "bookexchangesystem-90aba",
+    "storage_bucket": "bookexchangesystem-90aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140032564417:android:00764659f66e9dbcf80840",
+        "android_client_info": {
+          "package_name": "com.BookExchangeSystem.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140032564417-qt3asi9d5d2sj8s7e41fs122r92t6a84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3SLWVbR_xtOz8ERm1kKaNRIE0AvO_1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140032564417-ekhho82dmdualo5ppukk46qcv7a374lm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140032564417-a3nqkoft565fgp63s5euth9a1m8aoooj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookExchageSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140032564417:android:9832876fb48b8c64f80840",
+        "android_client_info": {
+          "package_name": "com.example.book_exchage_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140032564417-qt3asi9d5d2sj8s7e41fs122r92t6a84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3SLWVbR_xtOz8ERm1kKaNRIE0AvO_1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140032564417-ekhho82dmdualo5ppukk46qcv7a374lm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140032564417-a3nqkoft565fgp63s5euth9a1m8aoooj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookExchageSystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140032564417:android:72aa3c4104a05f3bf80840",
+        "android_client_info": {
+          "package_name": "com.example.book_exchange_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140032564417-qt3asi9d5d2sj8s7e41fs122r92t6a84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3SLWVbR_xtOz8ERm1kKaNRIE0AvO_1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140032564417-ekhho82dmdualo5ppukk46qcv7a374lm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140032564417-a3nqkoft565fgp63s5euth9a1m8aoooj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookExchageSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
